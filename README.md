@@ -11,18 +11,12 @@
 
 > Link: [MIT_6.824_LECTURES](https://github.com/zZay132-4ONE/MIT_6.824_Distributed-Systems/tree/main/slides)
 
-1. Introduction
-
+1. Introduction + MapReduce (2004)
+1. RPC and Threads
 
 <br>
 
-## 02. Readings
-
-> Link: [MIT_6.824_READINGS](https://github.com/zZay132-4ONE/MIT_6.824_Distributed-Systems/tree/main/readings)
-
-1. MapReduce (2004)
-
-## 03. Labs
+## 02. Labs
 
 > Link: [MIT_6.824_LABS](https://github.com/zZay132-4ONE/MIT_6.824_Distributed-Systems/tree/main/labs)
 
