@@ -1,6 +1,8 @@
 package crawlers
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	// Serial crawler
