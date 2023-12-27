@@ -15,15 +15,16 @@
    - Readings: MapReduce (2004)
 
 1. **RPC and Threads**
-   - Readings: GoTour-FAQ
+   - Readings: GoTour FAQ
    - Codes: 
-     - Web Crawlers: `serial_crawler.go`, `concurrent_mutex_crawler.go`, `concurrent_channel_crawler.go`
-     - K/V Storage RPC: `client.go`, `server.go`, `rpc.go`
+     - Web Crawlers: `serial_crawler`, `concurrent_mutex_crawler`, `concurrent_channel_crawler`
+     - K/V Storage RPC: `client`, `server`, `rpc`
 
 1. **GFS**
-   - Readings: GFS (2003), GFS-FAQ
+   - Readings: GFS (2003), GFS FAQ
 
-
+1. **Primary-Backup Replication**
+   - Readings: Fault-Tolerant Virtual Machines (2010), VM-Fault-Tolerance FAQ
 
 
 <br>
