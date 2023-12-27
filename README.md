@@ -11,8 +11,20 @@
 
 > Link: [MIT_6.824_LECTURES](https://github.com/zZay132-4ONE/MIT_6.824_Distributed-Systems/tree/main/lectures)
 
-1. Introduction + MapReduce (2004)
-1. RPC and Threads
+1. **Introduction** 
+   - Readings: MapReduce (2004)
+
+1. **RPC and Threads**
+   - Readings: GoTour-FAQ
+   - Codes: 
+     - Web Crawlers: `serial_crawler.go`, `concurrent_mutex_crawler.go`, `concurrent_channel_crawler.go`
+     - K/V Storage RPC: `client.go`, `server.go`, `rpc.go`
+
+1. **GFS**
+   - Readings: GFS (2003), GFS-FAQ
+
+
+
 
 <br>
 
